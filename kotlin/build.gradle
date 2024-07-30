@@ -10,7 +10,7 @@ plugins {
     id 'application'
 }
 
-group 'com.preslavrachev'
+group 'com.jamesbrookssoft'
 version '1.0-SNAPSHOT'
 
 repositories {
@@ -40,7 +40,7 @@ compileTestKotlin {
     kotlinOptions.jvmTarget = "1.8"
 }
 
-mainClassName = 'com.preslavrachev.kuote.MainKt'
+mainClassName = 'com.jamesbrookssoft.kuote.MainKt'
 
 //shadowJar {
 //    manifest {

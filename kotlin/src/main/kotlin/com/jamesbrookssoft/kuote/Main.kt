@@ -1,4 +1,4 @@
-package com.preslavrachev.kuote
+package com.jamesbrookssoft.kuote
 
 import com.mongodb.MongoClientURI
 import com.mongodb.client.MongoCollection

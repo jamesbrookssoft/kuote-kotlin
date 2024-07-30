@@ -1,4 +1,4 @@
-package com.preslavrachev.kuote
+package com.jamesbrookssoft.kuote
 
 import com.fasterxml.jackson.annotation.JsonInclude
 import com.mongodb.client.MongoCollection
